@@ -1,1 +1,1 @@
-console.log("Yolo Badge");
+console.log("Yolo Badge 1");
